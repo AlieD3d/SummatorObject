@@ -1,0 +1,15 @@
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/bin/Debug/net7.0/SelfEdu
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/bin/Debug/net7.0/SelfEdu.deps.json
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/bin/Debug/net7.0/SelfEdu.runtimeconfig.json
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/bin/Debug/net7.0/SelfEdu.dll
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/bin/Debug/net7.0/SelfEdu.pdb
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/obj/Debug/net7.0/SelfEdu.csproj.AssemblyReference.cache
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/obj/Debug/net7.0/SelfEdu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/obj/Debug/net7.0/SelfEdu.AssemblyInfoInputs.cache
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/obj/Debug/net7.0/SelfEdu.AssemblyInfo.cs
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/obj/Debug/net7.0/SelfEdu.csproj.CoreCompileInputs.cache
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/obj/Debug/net7.0/SelfEdu.dll
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/obj/Debug/net7.0/refint/SelfEdu.dll
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/obj/Debug/net7.0/SelfEdu.pdb
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/obj/Debug/net7.0/SelfEdu.genruntimeconfig.cache
+/Users/arteomnesterov/Projects/SelfEdu/SelfEdu/obj/Debug/net7.0/ref/SelfEdu.dll
